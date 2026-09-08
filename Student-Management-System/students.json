@@ -1,0 +1,30 @@
+[
+    {
+        "id": "101",
+        "name": "Roshan",
+        "age": 21,
+        "course": "B.Tech",
+        "marks": {
+            "Python": 88.0,
+            "Java": 99.0,
+            "Mathematics": 92.0
+        },
+        "total": 279.0,
+        "average": 93.0,
+        "grade": "A+"
+    },
+    {
+        "id": "102",
+        "name": "Rahul",
+        "age": 20,
+        "course": "B.Tech",
+        "marks": {
+            "Python": 85.0,
+            "Java": 91.0,
+            "Mathematics": 90.0
+        },
+        "total": 266.0,
+        "average": 88.66666666666667,
+        "grade": "A"
+    }
+]

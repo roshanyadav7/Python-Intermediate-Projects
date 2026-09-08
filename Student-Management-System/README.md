@@ -161,28 +161,6 @@ students.json
 
 Whenever a student is added, updated, or deleted, the program saves the changes to this file.
 
-### Example JSON Structure
-
-```json
-[
-    {
-        "id": "101",
-        "name": "Rahul",
-        "age": 20,
-        "course": "B.Tech CSE",
-        "marks": {
-            "Python": 85,
-            "Java": 78,
-            "Mathematics": 92
-        },
-        "total": 255,
-        "average": 85.0,
-        "grade": "A"
-    }
-]
-```
-
-This means the student data **does not disappear when the program is closed**.
 
 ## 🧠 Concepts Practiced
 
